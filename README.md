@@ -43,7 +43,7 @@ Breve descrição do objetivo e do problema que o projeto busca resolver.
 Breve descrição das funcionalidades principais e do que você aprendeu durante o desenvolvimento.
 
 - **Tecnologias:** `Python` · `Git`
-- **Repositório:** [Ver projeto](https://github.com/iancodex/SEU-REPOSITORIO)
+- **Repositório:** [Ver projeto](https://github.com/iancodex/loginpage)
 
 ### `nome-do-projeto-3`
 
