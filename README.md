@@ -31,12 +31,12 @@ Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento web, progr
 
 > Substitua os exemplos abaixo pelos seus repositórios quando estiverem prontos.
 
-### `nome-do-projeto-1`
+### `Página de Login - Dreamcore`
 
 Breve descrição do objetivo e do problema que o projeto busca resolver.
 
-- **Tecnologias:** `HTML` · `CSS` ·
-- **Repositório:** [Ver projeto]((https://github.com/iancodex/loginpage))
+- **Tecnologias:** `HTML` · `CSS` 
+- **Repositório:** [Ver projeto](https://github.com/iancodex/loginpage)
 
 ### `nome-do-projeto-2`
 
