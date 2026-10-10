@@ -29,7 +29,6 @@ Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento web, progr
 
 ## Projetos em destaque
 
-> Substitua os exemplos abaixo pelos seus repositórios quando estiverem prontos.
 
 ### `Página de Login - Dreamcore`
 
