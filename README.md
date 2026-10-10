@@ -33,14 +33,16 @@ Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento web, progr
 
 ### `Página de Login - Dreamcore`
 
-Breve descrição do objetivo e do problema que o projeto busca resolver.
+Trabalhando com html e CSS, foi possivel treinar inputs e estilizações que eu ainda 
+não sabia serem possíveis.
 
 - **Tecnologias:** `HTML` · `CSS` 
 - **Repositório:** [Ver projeto](https://github.com/iancodex/loginpage)
 
 ### `Simulador de SO - Contemplando todos os processos`
 
-Breve descrição das funcionalidades principais e do que você aprendeu durante o desenvolvimento.
+Estudo dos processos, round-robin, sjf... Entendimento acerca de escalonamento e análise
+dos dados.
 
 - **Tecnologias:** `HTML` · `CSS` · `JavaScript`
 - **Repositório:** [Ver projeto](https://github.com/iancodex/so-simulator---sjf-round-robin...)
