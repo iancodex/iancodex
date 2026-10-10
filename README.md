@@ -38,19 +38,13 @@ Breve descrição do objetivo e do problema que o projeto busca resolver.
 - **Tecnologias:** `HTML` · `CSS` 
 - **Repositório:** [Ver projeto](https://github.com/iancodex/loginpage)
 
-### `nome-do-projeto-2`
+### `Simulador de SO - Contemplando todos os processos`
 
 Breve descrição das funcionalidades principais e do que você aprendeu durante o desenvolvimento.
 
-- **Tecnologias:** `Python` · `Git`
-- **Repositório:** [Ver projeto](https://github.com/iancodex/loginpage)
+- **Tecnologias:** `HTML` · `CSS` · `JavaScript`
+- **Repositório:** [Ver projeto](https://github.com/iancodex/so-simulator---sjf-round-robin...)
 
-### `nome-do-projeto-3`
-
-Breve descrição de outro projeto relevante para seus estudos ou portfólio.
-
-- **Tecnologias:** `TypeScript` · `Linux`
-- **Repositório:** [Ver projeto](https://github.com/iancodex/SEU-REPOSITORIO)
 
 ## Contato
 
