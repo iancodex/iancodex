@@ -35,8 +35,8 @@ Atualmente, estou desenvolvendo minhas habilidades em desenvolvimento web, progr
 
 Breve descrição do objetivo e do problema que o projeto busca resolver.
 
-- **Tecnologias:** `HTML` · `CSS` · `JavaScript`
-- **Repositório:** [Ver projeto](https://github.com/iancodex/SEU-REPOSITORIO)
+- **Tecnologias:** `HTML` · `CSS` ·
+- **Repositório:** [Ver projeto]((https://github.com/iancodex/loginpage))
 
 ### `nome-do-projeto-2`
 
